@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
   //Header
   header: {
     width: 414,
-    height: 120,
+    height: 100,
     flexShrink: 0,
     right: 8,
     justifyContent: "center",
@@ -73,6 +73,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     color: "white",
   },
+  //FlatList
   flatList: {
     paddingHorizontal: 25,
     paddingTop: 20,
